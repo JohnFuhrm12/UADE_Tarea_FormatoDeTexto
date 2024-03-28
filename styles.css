@@ -1,0 +1,28 @@
+.empire-red {
+    background-color: red;
+}
+
+.rebels-blue {
+    background-color: blue;
+}
+
+#vader {
+    font-size: large;
+}
+
+#luke {
+    font-style: italic;
+}
+
+.soldier {
+    border-style: dashed;
+    letter-spacing: 2;
+}
+
+.support {
+    text-align: center;
+}
+
+.ship {
+    text-transform: uppercase;
+}
